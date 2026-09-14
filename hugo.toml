@@ -1,8 +1,6 @@
 baseURL = "https://350words.com/"
 locale = "en-au"
 title = "350 Words"
-theme = "hugo-simple"
-mainSections = ["posts"]
 
 [[menu.main]]
 name = "Posts"
@@ -10,4 +8,9 @@ pageRef = "/posts"
 weight = 10
 
 [params]
-description = "Notes, ideas and observations in roughly 350 words."
+description = "Strong opinions lightly held."
+mainSections = ["posts"]
+
+[module]
+[[module.imports]]
+path = "github.com/sergeyklay/gohugo-theme-ed"
