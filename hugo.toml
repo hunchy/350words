@@ -11,6 +11,12 @@ weight = 10
 description = "Strong opinions lightly held."
 mainSections = ["posts"]
 
+[params.assets]
+  favicon = "book.png"
+  svgicon = "book.png"
+  apple_touch_icon = "book.png"
+
+
 [module]
 [[module.imports]]
 path = "github.com/sergeyklay/gohugo-theme-ed"
