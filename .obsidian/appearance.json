@@ -1,1 +1,6 @@
-{}
+{
+  "theme": "obsidian",
+  "interfaceFontFamily": "IBM Plex Mono",
+  "textFontFamily": "IBM Plex Mono",
+  "monospaceFontFamily": "IBM Plex Mono"
+}
