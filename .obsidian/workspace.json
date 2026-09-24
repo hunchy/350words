@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/You just don't know.md",
+                "file": "content/posts/How I use AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "You just don't know"
+              "title": "How I use AI"
             }
           }
         ]
@@ -187,13 +187,16 @@
   },
   "active": "ff78c01d0bb2b2be",
   "lastOpenFiles": [
-    "content/posts/test-post.md",
+    "public/posts/how-i-use-ai/index.html",
+    "public/posts/how-i-use-ai",
+    "archetypes/350w-template.md",
+    "content/posts/How I use AI.md",
     "content/posts/You just don't know.md",
+    "content/posts/test-post.md",
     "public/posts/you-just-dont-know/index.html",
     "public/posts/you-just-dont-know",
     "public/posts/untitled/index.html",
     "public/posts/untitled",
-    "archetypes/350w-template.md",
     "layouts/partials/custom-head.html",
     "layouts/_partials/custom_head.html",
     "layouts/_partials",
@@ -203,7 +206,6 @@
     "default.md",
     "public/book.png",
     "static/book.png",
-    "layouts/partials/post-meta/date.html",
-    "layouts/partials/post-meta"
+    "layouts/partials/post-meta/date.html"
   ]
 }
