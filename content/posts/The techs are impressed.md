@@ -2,7 +2,7 @@
 date = "2026-09-21"
 pubdate = "2026-09-21"
 draft = "false"
-title = "The techs are impressed"
+title = "The techs are not impressed"
 summary = "I wanted to prove to myself that I could get all this technology to mesh and surprisingly, it worked. "
 description = ""
 +++
