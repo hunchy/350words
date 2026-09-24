@@ -15,10 +15,10 @@ And there's no tracking, nothing to buy, and nothing to do except read one perso
 
 ## Here's what I did
 
-1. I installed Hugo and Github on my W11 PC.
-2. I set up a Cloudflare 'worker' service and pointed my existing domain to it.
+1. I installed [Hugo](https://gohugo.io/) and [Github](https://github.com/) on my W11 PC.
+2. I set up a [Cloudflare](https://www.cloudflare.com/) 'worker' service and pointed my existing domain to it.
 3. I set up the folder structure Hugo produced as an Obsidian vault, and replicated it into a Github repository.
-4. I installed the Hugo 'Ed' theme, and tweaked it to what I wanted it to look like.
+4. I installed the Hugo [Ed theme](https://themes.gohugo.io/themes/gohugo-theme-ed/), and tweaked it to what I wanted it to look like.
 5. I created a couple of batch files. One sets up a localhost instance so I can see what it looks like. The other pushes Obsidian files to the Github repository - not all of them, I figured out .gitignore to leave some behind.
 
 ## Here's how it works
@@ -29,6 +29,4 @@ And there's no tracking, nothing to buy, and nothing to do except read one perso
 4. All good. The second batch file writes it to Github.
 5. 30 seconds later, the post is live.
 
-I don't expect too many people out there will see this post or even this website. I don't care much. I just wanted to prove to myself that I could get all this technology to mesh, and it worked. 
-
-A great learning experience for an old fart.
+I don't expect too many people out there will see this post or even this website. I don't care much. I just wanted to prove to myself that I could get all this technology to mesh, and it worked. Plus it gives me a space to practice writing in public.
