@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/How I use AI.md",
+                "file": "content/posts/The techs are impressed.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How I use AI"
+              "title": "The techs are impressed"
             }
           }
         ]
@@ -187,10 +187,13 @@
   },
   "active": "ff78c01d0bb2b2be",
   "lastOpenFiles": [
+    "public/posts/the-techs-are-impressed/index.html",
+    "public/posts/the-techs-are-impressed",
+    "content/posts/How I use AI.md",
+    "content/posts/The techs are impressed.md",
     "public/posts/how-i-use-ai/index.html",
     "public/posts/how-i-use-ai",
     "archetypes/350w-template.md",
-    "content/posts/How I use AI.md",
     "content/posts/You just don't know.md",
     "content/posts/test-post.md",
     "public/posts/you-just-dont-know/index.html",
@@ -200,12 +203,10 @@
     "layouts/partials/custom-head.html",
     "layouts/_partials/custom_head.html",
     "layouts/_partials",
-    "layouts/partials/custom_head.html",
     "content/_index.md",
     "350w-template.md",
     "default.md",
     "public/book.png",
-    "static/book.png",
-    "layouts/partials/post-meta/date.html"
+    "static/book.png"
   ]
 }
