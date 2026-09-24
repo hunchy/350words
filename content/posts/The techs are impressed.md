@@ -9,9 +9,11 @@ description = ""
 
 The technologists who read this post will be unimpressed. But I'm pretty fkn proud of myself.
 
-I'm 69, and not the sort of person who solves hard techo problems. I got this simple website up and running in around 3 hours. The total annual cost is domain name renewal. Unlike Wordpress there's no hosting cost, no plugins, and theme subscription.
+I'm not the sort of person who solves hard tech problems. However I got this simple website up and running in around 3 hours. The total annual cost is domain name renewal. Unlike Wordpress there's no hosting cost, no plugins, and theme subscription.
 
-And there's no tracking, nothing to buy, and nothing to do except read one person's words online.
+I like its super simple minimalist aesthetic and there's no tracking, nothing to buy, and nothing to do here. Except read.
+
+It's fast, too. Google's PageSpeed tool ranks it 100/100.
 
 ## Here's what I did
 
