@@ -1,9 +1,8 @@
-+++
-date = "YYYY-MM-DD"
-pubdate = "YYYY-MM-DD"
-draft = "true"
-title = ""
-summary = ""
-description = ""
-+++
-
+---
+title:
+summary:
+description:
+date: 2026-09-22T01:00:00
+pubdate:
+draft:
+---

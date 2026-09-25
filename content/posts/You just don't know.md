@@ -2,7 +2,7 @@
 date = "2026-09-19"
 draft = "false"
 title = "You just don't know"
-summary = "A man’s public distress unsettles a café crowd, prompting questions about mental illness, fear and judgement. Because we cannot know another person’s reality, deciding how society should respond becomes deeply uncomfortable."
+summary = "We can't ever know another person’s reality, can we?."
 description = "A disturbing encounter in a park raises questions about mental illness, fear, judgement and how society responds to people whose reality we cannot know."
 +++
 
