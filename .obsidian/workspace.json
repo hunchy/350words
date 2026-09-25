@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/The techs are impressed.md",
+                "file": "content/posts/I nearly got scammed today.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "The techs are impressed"
+              "title": "I nearly got scammed today"
             }
           }
         ]
@@ -187,10 +187,11 @@
   },
   "active": "ff78c01d0bb2b2be",
   "lastOpenFiles": [
+    "content/posts/The techs are impressed.md",
+    "content/posts/I nearly got scammed today.md",
     "public/posts/the-techs-are-impressed/index.html",
     "public/posts/the-techs-are-impressed",
     "content/posts/How I use AI.md",
-    "content/posts/The techs are impressed.md",
     "public/posts/how-i-use-ai/index.html",
     "public/posts/how-i-use-ai",
     "archetypes/350w-template.md",
@@ -202,7 +203,6 @@
     "public/posts/untitled",
     "layouts/partials/custom-head.html",
     "layouts/_partials/custom_head.html",
-    "layouts/_partials",
     "content/_index.md",
     "350w-template.md",
     "default.md",
