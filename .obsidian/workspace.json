@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/Boring posts.md",
+                "file": "content/posts/How I use AI.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Boring posts"
+              "title": "How I use AI"
             }
           }
         ],
@@ -202,11 +202,11 @@
   },
   "active": "1996b19dadd5c43e",
   "lastOpenFiles": [
+    "content/posts/Hello.md",
+    "content/posts/Boring posts.md",
     "public/posts/boring-posts/index.html",
     "public/posts/boring-posts",
     "content/posts/You just don't know.md",
-    "content/posts/Boring posts.md",
-    "content/posts/Hello.md",
     "archetypes/350w-template.md",
     "content/posts/Untitled 1.md",
     "public/posts/untitled-1/index.html",
@@ -223,7 +223,6 @@
     "content/posts/How I use AI.md",
     "public/posts/how-i-use-ai/index.html",
     "public/posts/how-i-use-ai",
-    "public/posts/you-just-dont-know/index.html",
     "content/_index.md",
     "350w-template.md",
     "default.md",

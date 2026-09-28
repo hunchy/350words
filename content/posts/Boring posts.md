@@ -24,3 +24,10 @@ More and more, I think that's wrong. Maybe I just should say it plain, and expla
 Because every reader makes an instant decision when a post comes into view: What's here for me?
 
 And if nothing leaps off the screen and into their head: I've failed.
+
+Here are 4 models I found that I will be trying out:
+
+1. I thought X -> I noticed Y -> So now I think Z.
+2. Tension -> Explanation -> Consequence
+3. Everyone does X -> Here's what really happens -> Therefore try Z.
+4. Here's something weird -> Here's why it happens -> Here's what it means for you.
