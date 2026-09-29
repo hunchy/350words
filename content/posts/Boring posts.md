@@ -28,6 +28,6 @@ And if nothing leaps off the screen and into their head: I've failed.
 Here are 4 models I found that I will be trying out:
 
 1. I thought X -> I noticed Y -> So now I think Z.
-2. Tension -> Explanation -> Consequence
+2. Tension -> Explanation -> Consequence.
 3. Everyone does X -> Here's what really happens -> Therefore try Z.
 4. Here's something weird -> Here's why it happens -> Here's what it means for you.

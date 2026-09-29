@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/posts/How I use AI.md",
+                "file": "content/posts/2026-09-29 Business strategy 101.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "How I use AI"
+              "title": "2026-09-29 Business strategy 101"
             }
           }
         ],
@@ -202,8 +202,12 @@
   },
   "active": "1996b19dadd5c43e",
   "lastOpenFiles": [
-    "content/posts/Hello.md",
+    "public/posts/2026-09-29-business-strategy-101/index.html",
+    "public/posts/2026-09-29-business-strategy-101",
     "content/posts/Boring posts.md",
+    "content/posts/2026-09-29 Business strategy 101.md",
+    "content/posts/How I use AI.md",
+    "content/posts/Hello.md",
     "public/posts/boring-posts/index.html",
     "public/posts/boring-posts",
     "content/posts/You just don't know.md",
@@ -220,9 +224,7 @@
     "public/posts/i-nearly-got-scammed-today",
     "public/posts/the-techs-are-impressed/index.html",
     "public/posts/the-techs-are-impressed",
-    "content/posts/How I use AI.md",
     "public/posts/how-i-use-ai/index.html",
-    "public/posts/how-i-use-ai",
     "content/_index.md",
     "350w-template.md",
     "default.md",
